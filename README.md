@@ -22,7 +22,9 @@ django_test_project uses a number of open source projects to work properly:
 
 ```sh
 cd django_test_project
-python manage.py runserver
+python manage.py migrate # Run migrations
+python manage.py runserver 8000
+python manage.py test polls
 ```
 
 ## Meta
