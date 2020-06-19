@@ -8,7 +8,7 @@ Django Test Project is based in Django [Django Official Tutorial](https://docs.d
 
 ## Version
 
-1.0.0
+2.0.0
 
 ## Installation
 
@@ -16,7 +16,7 @@ Download zip file and extract it [latest release](https://github.com/reysmerwvr/
 
 django_test_project uses a number of open source projects to work properly:
 
--[Python] - Python
+[Python] - Python
 
 ## Running playgrounds
 
