@@ -18,7 +18,7 @@ django_test_project uses a number of open source projects to work properly:
 
 [Python] - Python
 
-## Running playgrounds
+## Run
 
 ```sh
 cd django_test_project
